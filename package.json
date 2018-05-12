@@ -35,5 +35,16 @@
     "es6-promise": "^4.0.5",
     "rusha": "^0.8.6",
     "whatwg-fetch": "^2.0.2"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apoorvanand/box-javascript-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apoorvanand/box-javascript-sdk/issues"
+  },
+  "homepage": "https://github.com/apoorvanand/box-javascript-sdk#readme"
 }
